@@ -12,4 +12,4 @@ It seems fitting to apply some Monte Carlo simulations to these games to find ou
 
 This project was completed during a course on simulations as part of the Georgia Tech MS Analytics program. 
 
-The notebook used for this project along with the report are included in this repository.
+The notebook used for this project is included in this repository.
